@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-
+print ("Bla bla ")
 client = MongoClient('localhost', 27017)
 
 # Get the sampleDB database
