@@ -4,7 +4,6 @@ from pymongo import MongoClient
 
 def bla():
 	print ("Lopatko lychii")
-	print ("Bla bla ")
 
 client = MongoClient('localhost', 27017)
 
