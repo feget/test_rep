@@ -3,6 +3,7 @@ from pymongo import MongoClient
 print ("Bla bla ")
 print ("Add byMe")
 
+Vasya Test
 
 
 def bla():
